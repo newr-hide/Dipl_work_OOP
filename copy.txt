@@ -1,0 +1,5 @@
+https://oauth.vk.com/authorize?client_id=51905646&display=page&redirect_uri=http://example.com/callback&scope=friends&response_type=token&v=5.131&state=123456
+51905646 id программы
+
+
+ токен   vk1.a.6PQPieXXl_a-fLVAvvP-KPsT492K6jXY2C9LEzmSv6NE7fcYKOstZKXKkaLDPQJdW7ReF57zqduCvPgf6IntEnp90aVwmzjvcypVo7sxZdgOcAQj4cKqQQiZqFKSlk9RleOj-iUvy5Dc8pKtn_FaUTsRQjVhffbNizatpcVrxHlOH_VwG4uP8adCfolX2QQt
